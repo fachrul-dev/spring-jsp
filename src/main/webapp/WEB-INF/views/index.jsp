@@ -16,8 +16,7 @@
 
     <section class="m-4">
 
-
-<h1>DataTables with Bootstrap</h1>
+<h2>DataTables</h2>
 <table id="dataTable" class="table table-striped table-bordered">
     <thead>
     <tr>
